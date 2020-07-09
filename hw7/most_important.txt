@@ -1,0 +1,2 @@
+I got ['is_weekend' 'weekday_is_sunday' 'weekday_is_wednesday'
+ 'weekday_is_thursday' 'weekday_is_friday'] as my most important features. I used the second column rather than the first because the first was all zeros :/ (it was all zeros running the solution code too)
